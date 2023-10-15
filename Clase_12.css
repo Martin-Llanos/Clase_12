@@ -3,7 +3,7 @@ html {
   }
   
   body {
-    background-color: rgb(102, 255, 102);
+    background-color: rgb(181, 166, 66);
   }
   
   header {
@@ -13,12 +13,12 @@ html {
   }
   
   header > span {
-    color: #198754;
+    color: #185e86;
   }
   
   .table-container {
-    height: 700px;
-    width: 600px;
+    height: 750px;
+    width: 500px;
   }
   
   #table-of-currencies {
@@ -30,5 +30,5 @@ html {
   }
   
   .error {
-    border: 2px solid red;
+    border: 2px solid midnightblue;
   }
