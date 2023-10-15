@@ -1,0 +1,26 @@
+{
+    "name": "exchange-rates",
+    "version": "1.0.0",
+    "description": "Exchange rates app for r/Argentina-programa",
+    "main": "index.html",
+    "scripts": {
+      "start": "http-server -c-1",
+      "cypress-dev": "cypress open"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/cvillar97/exchange-rates.git"
+    },
+    "author": "Cristian Villar",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/cvillar97/exchange-rates/issues"
+    },
+    "homepage": "https://github.com/cvillar97/exchange-rates#readme",
+    "dependencies": {
+      "bootstrap": "^5.3.2"
+    },
+    "devDependencies": {
+      "cypress": "^13.2.0"
+    }
+  }
